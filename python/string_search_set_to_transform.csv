@@ -1,0 +1,400 @@
+Extrakorporale Verfahren;Nierenverfahren_VO_Filter Filter  für extrakorporale Verfahren;100
+Extrakorporale Verfahren;Nierenverfahren_VO_Zugang VO Gefäßzugang extracorporale Verfahren;55
+Extrakorporale Verfahren;Nierenverfahren_VO_Bolus Medikament;47
+Extrakorporale Verfahren;Nierenverfahren_ES_Multi_CitratBlut Citratrate;46
+Extrakorporale Verfahren;Nierenersatzverfahren_Mess_Bilanz;46
+Substituatfluss;NEV_CRRT_MS_Multi_Citratfluss;55
+Substituatfluss;NEV_CRRT_ES_Multi_Blutfluss;52
+Substituatfluss;NEV_CRRT_ES_Multi_Substituat;47
+Substituatfluss;Betreuer_Status;47
+Substituatfluss;Hausarzt_Strasse;45
+Parameter von extrakorporalen Verfahren;Nierenverfahren_VO_Filter Filter  für extrakorporale Verfahren;63
+Parameter von extrakorporalen Verfahren;Nierenverfahren_VO_Zugang VO Gefäßzugang extracorporale Verfahren;63
+Parameter von extrakorporalen Verfahren;Nierenverfahren_VO_SpülloesungAntikoagulanz Spüllösung zum Vorbereiten des extrakorporalen Verfahrens;56
+Parameter von extrakorporalen Verfahren;Nierenverfahren_VO_Antikoagulanz Antikoagulation Medikament;51
+Parameter von extrakorporalen Verfahren;Nierenverfahren_VO_Bolus Medikament;51
+Arterieller Druck;Nierenverfahren_MS_Multi_artDruck arterieller Druck;100
+Arterieller Druck;ABP_1 arterieller Blutdruck 1;79
+Arterieller Druck;ABP_2 zweiter arterieller Blutdruck;79
+Arterieller Druck;PAP Pulmunalarterieller Druck;74
+Arterieller Druck;ICP Intrakranialer Druck;59
+Monitoring und Vitaldaten;ART 2. artereille Messung, ab 201712 im Rahmen Umstellung Philips Monitoring;57
+Monitoring und Vitaldaten;Beatmung_MS_G5_ExpMinVol Exspiratorisches Minutenvolumen, Monitoring-Parameter;57
+Monitoring und Vitaldaten;Beatmung_MS_G5_Rinsp Inspiratorische Flow-Resistance, ein Monitoring-Parameter;57
+Monitoring und Vitaldaten;Beatmung_MS_G5_ftotal Gesamtatemfrequenz, ein Monitoring Parameter;57
+Monitoring und Vitaldaten;P_Temperatur_generic Anlage für Philips Monitoring;57
+Parameter von Beatmung;Beatmung_ES_C2_ProzentVol;60
+Parameter von Beatmung;Beatmung_MS_G5_ExpMinVol Exspiratorisches Minutenvolumen, Monitoring-Parameter;58
+Parameter von Beatmung;Beatmung_MS_G5_Rinsp Inspiratorische Flow-Resistance, ein Monitoring-Parameter;58
+Parameter von Beatmung;Beatmung_MS_G5_ftotal Gesamtatemfrequenz, ein Monitoring Parameter;58
+Parameter von Beatmung;Beatmung_MS_G5_Pplateau Plateau-Atemwegsdruck, ein Monitoring-Parameter;58
+Eingestellte und gemessene Parameter (Extrakorporale Verfahren);Nierenverfahren_VO_Filter Filter  für extrakorporale Verfahren;66
+Eingestellte und gemessene Parameter (Extrakorporale Verfahren);Nierenverfahren_VO_Zugang VO Gefäßzugang extracorporale Verfahren;56
+Eingestellte und gemessene Parameter (Extrakorporale Verfahren);Beatmung_ES_Evita4_frequenz eingestellte Atemfrequenz;51
+Eingestellte und gemessene Parameter (Extrakorporale Verfahren);Beatmung_ES_Evita4_Tinsp eingestellte absolute Inspirationszeit;50
+Eingestellte und gemessene Parameter (Extrakorporale Verfahren);Beatmung_ES_Evita4_fApnoe eingestellte Atemfrequenz in der Apnoeventilation;50
+Beatmung;P_Beatmung_ES_NO;67
+Beatmung;P_Beatmung_MS_NO2;64
+Beatmung;Beatmung_MS_C2_TE;64
+Beatmung;Beatmung_ES_C2_Ti;64
+Beatmung;Beatmung_MS_G5_VTi;62
+Venoeser Druck;ZVD Zentralvenöser Druck;65
+Venoeser Druck;PAP Pulmunalarterieller Druck;53
+Venoeser Druck;"Beatmung_MS_G5_Pinsp Inspiratorischer Druck; mit Pinsp wird der Zieldruck (zusätzlich zu PEEP/CPAP) bezeichnet, der im Modus ASV während der Inspirationsphase abgegeben wird";53
+Venoeser Druck;ICP Intrakranialer Druck;53
+Venoeser Druck;Beatmung_MS_G5_AutoPeep Unerwarteter positiver endexspiratorischer Druck, ein Monitoring-Parameter;53
+Kopfumfang;COPRA_Patient_Kopfumfang Kopfumfang des Patienten in Zentimetern;100
+Kopfumfang;NEV_HD_VO_Zugang;38
+Kopfumfang;Patient_Verfügung;38
+Kopfumfang;Untersuchung_Kopf_Augen;36
+Kopfumfang;NEV_CRRT_VO_Zugang;36
+Ionisiertes Kalzium aus Nierenersatzverfahren;Nierenersatzverfahren_Mess_Bilanz;54
+Ionisiertes Kalzium aus Nierenersatzverfahren;Nierenersatzverfahren_Einstell_UFR;53
+Ionisiertes Kalzium aus Nierenersatzverfahren;Lungenersatzverfahren_Doku_Kathetertyp Kathetertyp;53
+Ionisiertes Kalzium aus Nierenersatzverfahren;Nierenersatzverfahren_Mess_VenDruck;52
+Ionisiertes Kalzium aus Nierenersatzverfahren;Lungenersatzverfahren_Doku_Zugang Gefäßzugang;52
+Atemfrequenz;AF Atemfrequenz;100
+Atemfrequenz;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;100
+Atemfrequenz;Beatmung_ES_Evita4_frequenz eingestellte Atemfrequenz;100
+Atemfrequenz;Beatmung_ES_Evita4_fApnoe eingestellte Atemfrequenz in der Apnoeventilation;100
+Atemfrequenz;HF Herzfrequenz;67
+Dauer Haemodialysesitzung;NEV_CRRT_VO_Dialysatloesung;54
+Dauer Haemodialysesitzung;P_NEV_HD_ES_5008onl_Dialyse_Zeit;46
+Dauer Haemodialysesitzung;Nierenersatzverfahren_Mess_Dialysatvolumen;45
+Dauer Haemodialysesitzung;Nierenverfahren_VO_4008HS_Dialysezeit;45
+Dauer Haemodialysesitzung;NEV_HD_VO_4008HS_Dialysezeit;45
+Eingestellte und gemessene Parameter (Beatmung);Beatmung_ES_Evita4_ASB eingestellte Druckunterstützung;63
+Eingestellte und gemessene Parameter (Beatmung);Beatmung_MS_G5_ftotal Gesamtatemfrequenz, ein Monitoring Parameter;62
+Eingestellte und gemessene Parameter (Beatmung);Beatmung_MS_Evita4_frequenz gemessene Gesamtatemfrequenz;61
+Eingestellte und gemessene Parameter (Beatmung);Beatmung_MS_G5_TE Exspirationzeit, ein Monitoring-Parameter;60
+Eingestellte und gemessene Parameter (Beatmung);Beatmung_ES_Evita4_PEEP eingestelltes PEEP Niveau;60
+Einstellung-Ausatmungszeit-Beatmung;Beatmung_MS_Heimbeatmung_Pmittel;63
+Einstellung-Ausatmungszeit-Beatmung;Beatmung_MS_Heimbeatmung_VTe;60
+Einstellung-Ausatmungszeit-Beatmung;Beatmung_ES_Heimbeatmung_Peep;59
+Einstellung-Ausatmungszeit-Beatmung;Beatmung_ES_Heimbeatmung_Frequenz;59
+Einstellung-Ausatmungszeit-Beatmung;Beatmung_ES_Heimbeatmung_Pcontrol;59
+Spontanes-Atemzugvolumen;Beatmung_Messung_VTeMl VTe / ex. Atemzugvolumen (Tidal Volumen expir.);74
+Spontanes-Atemzugvolumen;Beatmung_MS_C2_fSpontan;55
+Spontanes-Atemzugvolumen;Beatmung_MS_Servoi_Mve_spont Spontanes exsp. Minutenvolumen;55
+Spontanes-Atemzugvolumen;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;52
+Spontanes-Atemzugvolumen;p-SV Schlagvolumen;52
+Linksv. Schlagvolumenindex durch Indikatorverd.;Schlagvolumenindex Wert des gemessenen Schlagvolumenindex.;64
+Linksv. Schlagvolumenindex durch Indikatorverd.;p-SVI Schlagvolumenindex  (PICCO Modul Dräger Monitoring);63
+Linksv. Schlagvolumenindex durch Indikatorverd.;Vigileo_SVI SchlagvolumenindexSchlagvolumenindex;54
+Linksv. Schlagvolumenindex durch Indikatorverd.;Schlagvolumen gemessenes Schlagvolumen;49
+Linksv. Schlagvolumenindex durch Indikatorverd.;GEDVI Index des enddiastolisches Volumen;49
+Ideales Koerpergewicht;Beatmung_ES_G5_Body_Wt Eingestelltes Körpergewicht.;51
+Ideales Koerpergewicht;Patient_Gewicht Gewicht des Patienten;47
+Ideales Koerpergewicht;Patient_AufnGewicht Aufnahmegewicht (fallbezogen);43
+Ideales Koerpergewicht;Beatmung_Messung_Horrowitz;42
+Ideales Koerpergewicht;TempPBT Temperatur bei der PICCO Messung;42
+Sauerstoffsaettigung im Blut postduktal durch Pulsoxymetrie;SpO2 Sauerstoffsättigung Pulsoxymetrie;67
+Sauerstoffsaettigung im Blut postduktal durch Pulsoxymetrie;P_INVOS_Doku_rSO2_rechts cerbebrale Sauerstoffsättigung rechts;57
+Sauerstoffsaettigung im Blut postduktal durch Pulsoxymetrie;P_INVOS_Doku_rSO2_links cerebrale Sauerstoffsättigung links;56
+Sauerstoffsaettigung im Blut postduktal durch Pulsoxymetrie;PtiO2Druck Gemessener Sauerstoffpartialdruck im Parenchym;48
+Sauerstoffsaettigung im Blut postduktal durch Pulsoxymetrie;Beatmung_ES_Servoi_O2 Sauerstoffkonzentration;46
+Horowitz-In-Arteriellem-Blut;ABP_2 zweiter arterieller Blutdruck;60
+Horowitz-In-Arteriellem-Blut;ABP_1 arterieller Blutdruck 1;56
+Horowitz-In-Arteriellem-Blut;Beatmung_Messung_Horrowitz;44
+Horowitz-In-Arteriellem-Blut;Fontanelle_Beurteilung;44
+Horowitz-In-Arteriellem-Blut;Nierenverfahren_MS_Multi_artDruck arterieller Druck;43
+Koerpergroesse (Percentile);Patient_Groesse Größe des Patienten;59
+Koerpergroesse (Percentile);Nierenverfahren_ES_4008HS_Temperatur;43
+Koerpergroesse (Percentile);Betreuer_Name Betreuer des Patienten;43
+Koerpergroesse (Percentile);NEV_Apherese_ES_Multi_Plasma;42
+Koerpergroesse (Percentile);Angehoerige1_Telefon Angehoerigen-Telefon;42
+Unterstuetzungsdruck Beatmung;Beatmung_Einstellung_DruckFlow;68
+Unterstuetzungsdruck Beatmung;Beatmung_Einstellung_DruckTrigger;65
+Unterstuetzungsdruck Beatmung;IABP_DatascopeCS100_ES_Unterstützungsdruck;60
+Unterstuetzungsdruck Beatmung;Beatmung_Messung_ASB;57
+Unterstuetzungsdruck Beatmung;Beatmung_ES_C2_Druckrampe;56
+Atemwegsdruck bei mittlerem expiratorischem Gasfluss;Beatmung_ES_VisionA_MAP Mittlerer Atemwegsdruck (MAP);62
+Atemwegsdruck bei mittlerem expiratorischem Gasfluss;Beatmung_MS_Servoi_Pmean Mittlerer Atemwegsdruck;62
+Atemwegsdruck bei mittlerem expiratorischem Gasfluss;Beatmung_MS_Evita4_PEEP gemessener positiver endexspiratorischer Druck;57
+Atemwegsdruck bei mittlerem expiratorischem Gasfluss;Beatmung_MS_G5_Rexsp Exspiratorische Flow-Resistance, ein Monitoring-Parameter;54
+Atemwegsdruck bei mittlerem expiratorischem Gasfluss;Beatmung_Einstellung_PEEP Positiver endexspiratorischer Druck (PEEP);54
+Blutfluss extrakoporaler Gasaustausch;ITBVI Index des intrathorakalen Blutvolumens;52
+Blutfluss extrakoporaler Gasaustausch;ITBV Intrathorakales Blutvolumen;49
+Blutfluss extrakoporaler Gasaustausch;EVLW Extravaskuläres Lungenwasser;43
+Blutfluss extrakoporaler Gasaustausch;Betreuer_Status;42
+Blutfluss extrakoporaler Gasaustausch;SpO2 Sauerstoffsättigung Pulsoxymetrie;41
+Blutflussindex extrakoporaler Gasaustausch;ITBVI Index des intrathorakalen Blutvolumens;56
+Blutflussindex extrakoporaler Gasaustausch;ITBV Intrathorakales Blutvolumen;49
+Blutflussindex extrakoporaler Gasaustausch;Beatmung_MS_G5_Cstat Statische Compliance, ein Monitoringwert;43
+Blutflussindex extrakoporaler Gasaustausch;Nierenverfahren_ES_BM25_Blutfluss Blutpumpengeschwindigkeit;42
+Blutflussindex extrakoporaler Gasaustausch;SpO2 Sauerstoffsättigung Pulsoxymetrie;41
+Atemzugvolumen-Einstellung;Beatmung_Messung_VTeMl VTe / ex. Atemzugvolumen (Tidal Volumen expir.);70
+Atemzugvolumen-Einstellung;Beatmung_ES_C2_Pmax Eingestellte Alarmhochdruckgrenze. Einstellung erfolgtdirekt über die Alarmeinstellung aber auch indirekt über die Einstellung Pasvlimit. Die Alarmhochdruckgrenze liegt automatisch 10 mbar über der Pasvlimit Einstellung.;59
+Atemzugvolumen-Einstellung;Beatmung_Einstellung_DruckFlow;57
+Atemzugvolumen-Einstellung;Beatmung_Einstellung_ASBAnstieg;56
+Atemzugvolumen-Einstellung;Beatmung_Einstellung_FlowTrigger;55
+Spontanes-Mechanisches-Atemzugvolumen-Waehrend-Beatmung;Beatmung_Messung_VTeMl VTe / ex. Atemzugvolumen (Tidal Volumen expir.);59
+Spontanes-Mechanisches-Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_Evita4_MV gemessenes Atemminutenvolumen;57
+Spontanes-Mechanisches-Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;56
+Spontanes-Mechanisches-Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_Servoi_Mve_spont Spontanes exsp. Minutenvolumen;50
+Spontanes-Mechanisches-Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_G5_Ppeak Messwert: Beatmungsspitzendruck;49
+Linksventrikulaerer Schlagvolumenindex;Schlagvolumenindex Wert des gemessenen Schlagvolumenindex.;66
+Linksventrikulaerer Schlagvolumenindex;p-SVI Schlagvolumenindex  (PICCO Modul Dräger Monitoring);64
+Linksventrikulaerer Schlagvolumenindex;Schlagvolumen gemessenes Schlagvolumen;58
+Linksventrikulaerer Schlagvolumenindex;Vigileo_SVI SchlagvolumenindexSchlagvolumenindex;56
+Linksventrikulaerer Schlagvolumenindex;EVLWI Extravaskuläres Lungenwasserindex;53
+Linksv. Herzindex durch Indikatorverduennung;CI Herzindex;86
+Linksv. Herzindex durch Indikatorverduennung;p-CI Herzindex;78
+Linksv. Herzindex durch Indikatorverduennung;VigilanceC_CI Herzindex;56
+Linksv. Herzindex durch Indikatorverduennung;PCCI Herzindex (kontinuirlich);49
+Linksv. Herzindex durch Indikatorverduennung;ITBVI Index des intrathorakalen Blutvolumens;46
+Blutfluss durch cardiovasculaeres Geraet;EVLW Extravaskuläres Lungenwasser;47
+Blutfluss durch cardiovasculaeres Geraet;ITBVI Index des intrathorakalen Blutvolumens;45
+Blutfluss durch cardiovasculaeres Geraet;Beatmung_MS_VisionA_SISetting Dauer des manuell durchgeführten Atemhubs;45
+Blutfluss durch cardiovasculaeres Geraet;EVLWI Extravaskuläres Lungenwasserindex;44
+Blutfluss durch cardiovasculaeres Geraet;CardioHelpMaquet_MS_DruckArteriell;43
+Beatmungsvolumen-Pro-Minute-Machineller-Beatmung;Beatmung_ES_G5_Frequenz Anzahl der Atemzyklen pro Minute, Parametereinstellung;56
+Beatmungsvolumen-Pro-Minute-Machineller-Beatmung;Beatmung_MS_Servoi_Pmean Mittlerer Atemwegsdruck;56
+Beatmungsvolumen-Pro-Minute-Machineller-Beatmung;Beatmung_MS_G5_Pmittel Messwert: Beatmungsmitteldruck;54
+Beatmungsvolumen-Pro-Minute-Machineller-Beatmung;Beatmung_Messung_MVSpontan Mindest Volumen sp;54
+Beatmungsvolumen-Pro-Minute-Machineller-Beatmung;Beatmung_MS_G5_Ppeak Messwert: Beatmungsspitzendruck;53
+Blutdruck;ABP_1 arterieller Blutdruck 1;100
+Blutdruck;NBP_1 nichtinvasiver Blutdruck 1;100
+Blutdruck;ABP_2 zweiter arterieller Blutdruck;100
+Blutdruck;Beatmung_ES_C2_Druckrampe;41
+Blutdruck;Beatmung_Einstellung_DruckFlow;41
+Blutdruck Generisch;ABP_1 arterieller Blutdruck 1;64
+Blutdruck Generisch;NBP_1 nichtinvasiver Blutdruck 1;64
+Blutdruck Generisch;ABP_2 zweiter arterieller Blutdruck;64
+Blutdruck Generisch;ZVD Zentralvenöser Druck;48
+Blutdruck Generisch;PPV Pulsdruckabweichung;48
+Druckdifferenz Beatmung;Beatmung_MS_VisionA_Amplitude gemessene Druckdifferenz im HFOV Modus;76
+Druckdifferenz Beatmung;Beatmung_ES_C2_Druckrampe;62
+Druckdifferenz Beatmung;P_Beatmung_ES_C3_Druckrampe;60
+Druckdifferenz Beatmung;Beatmung_Einstellung_DruckTrigger;57
+Druckdifferenz Beatmung;Beatmung_Einstellung_DruckFlow;53
+Einstellung-Einatmungszeit-Beatmung;Beatmung_Einstellung_ASBAnstieg;64
+Einstellung-Einatmungszeit-Beatmung;Beatmung_MS_Heimbeatmung_Pmittel;63
+Einstellung-Einatmungszeit-Beatmung;Beatmung_ES_G5_Sauerstoff Sauerstoffeinstellung;61
+Einstellung-Einatmungszeit-Beatmung;Beatmung_Einstellung_ProzentMinVol;61
+Einstellung-Einatmungszeit-Beatmung;Beatmung_Einstellung_Anfeuchtung;60
+Exspiratorischer Gasfluss;Beatmung_MS_G5_ExspFlow Exspiratorischer Peakflow, ein Monitoring-Parameter;78
+Exspiratorischer Gasfluss;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;54
+Exspiratorischer Gasfluss;GEDV Globales enddiastolisches Volumen;51
+Exspiratorischer Gasfluss;CardioHelpMaquet_ES_Gasfluss;49
+Exspiratorischer Gasfluss;Beatmung_ES_CF800_DruckluftFlow Einstellgröße: Gasfluss Druckluft;48
+Exspiratorischer Sauerstoffpartialdruck;PtiO2Druck Gemessener Sauerstoffpartialdruck im Parenchym;72
+Exspiratorischer Sauerstoffpartialdruck;Beatmung_MS_G5_ExspFlow Exspiratorischer Peakflow, ein Monitoring-Parameter;58
+Exspiratorischer Sauerstoffpartialdruck;SpO2 Sauerstoffsättigung Pulsoxymetrie;50
+Exspiratorischer Sauerstoffpartialdruck;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;50
+Exspiratorischer Sauerstoffpartialdruck;NEV_Apherese_MS_Multi_artDruck;49
+Haemodialyse Blutfluss;ITBV Intrathorakales Blutvolumen;44
+Haemodialyse Blutfluss;HeartWare_Blutfluss_Doku;43
+Haemodialyse Blutfluss;ITBVI Index des intrathorakalen Blutvolumens;42
+Haemodialyse Blutfluss;NEV_HD_VO_4008HS_Blutfluss_Max;42
+Haemodialyse Blutfluss;NEV_CRRT_VO_Multi_BlutflussMax;42
+Herzfrequenz;HF Herzfrequenz;100
+Herzfrequenz;AF Atemfrequenz;67
+Herzfrequenz;HZV Herzzeitvolumen;58
+Herzfrequenz;Herzrhythmus Herzrhythmus;50
+Herzfrequenz;Beatmung_ES_Heimbeatmung_Frequenz;44
+Herzzeitvolumen;PCCO Pulskontur-Herzzeitvolumen;100
+Herzzeitvolumen;VigilanceC_HZV Herzzeitvolumen;100
+Herzzeitvolumen;p-CO Herzzeitvolumen (PICCO Modul Dräger Monitoring);100
+Herzzeitvolumen;HZV Herzzeitvolumen;100
+Herzzeitvolumen;HF Herzfrequenz;53
+Inspiratorischer Gasfluss;"Beatmung_MS_G5_Pinsp Inspiratorischer Druck; mit Pinsp wird der Zieldruck (zusätzlich zu PEEP/CPAP) bezeichnet, der im Modus ASV während der Inspirationsphase abgegeben wird";78
+Inspiratorischer Gasfluss;Beatmung_MS_G5_InspFlow Inspiratorischer Peakflow, ein Monitoring-Parameter;78
+Inspiratorischer Gasfluss;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;78
+Inspiratorischer Gasfluss;Lungenersatzverfahren_Doku_ECMOInspiratorischSaO2;49
+Inspiratorischer Gasfluss;Beatmung_ES_CF800_DruckluftFlow Einstellgröße: Gasfluss Druckluft;48
+Intrakranieller Druck (ICP);ICP Intrakranialer Druck;94
+Intrakranieller Druck (ICP);PAP Pulmunalarterieller Druck;63
+Intrakranieller Druck (ICP);ZVD Zentralvenöser Druck;54
+Intrakranieller Druck (ICP);NBP_1 nichtinvasiver Blutdruck 1;49
+Intrakranieller Druck (ICP);Nierenverfahren_MS_Multi_venDruck venöser Druck;45
+Koerpergewicht;NIRSrechts_MS;44
+Koerpergewicht;Beatmung_ES_G5_Body_Wt Eingestelltes Körpergewicht.;41
+Koerpergewicht;Angehoerige1_Ort;40
+Koerpergewicht;Angehoerige1_Verwandschaftsgrad;40
+Koerpergewicht;Patient_Gewicht Gewicht des Patienten;39
+Koerpergroesse;Patient_Groesse Größe des Patienten;47
+Koerpergroesse;Angehoerige1_Strasse;47
+Koerpergroesse;Patient_Ort Patientenadresse: Ort;43
+Koerpergroesse;Fall_Wertsachen_Prothese;42
+Koerpergroesse;Betreuer_Status;41
+Koerpertemperatur Kern;Untersuchung_Status_Koerpertemperatur;68
+Koerpertemperatur Kern;Temp1a Temperatur 1a;62
+Koerpertemperatur Kern;Temp2a Temperatur 2a;62
+Koerpertemperatur Kern;Temp2b Temperatur 2b;62
+Koerpertemperatur Kern;NEV_CRRT_ES_Multi_Temperatur;56
+Linksatrialer Druck;ICP Intrakranialer Druck;70
+Linksatrialer Druck;PAP Pulmunalarterieller Druck;62
+Linksatrialer Druck;ZVD Zentralvenöser Druck;62
+Linksatrialer Druck;LAP Linksatrial  Mitteldruck;61
+Linksatrialer Druck;NBP_1 nichtinvasiver Blutdruck 1;47
+Maximaler Beatmungsdruck;Beatmung_MS_G5_PeepCPAP Messwert: Beatmungsdruck Peep / CPAP;74
+Maximaler Beatmungsdruck;Beatmung_ES_C2_Druckrampe;69
+Maximaler Beatmungsdruck;P_Beatmung_ES_C3_Druckrampe;67
+Maximaler Beatmungsdruck;Beatmung_Einstellung_DruckTrigger;60
+Maximaler Beatmungsdruck;Beatmung_MS_C2_Pmittel;57
+Mechanische-Atemfrequenz-Beatmet;AF Atemfrequenz;89
+Mechanische-Atemfrequenz-Beatmet;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;60
+Mechanische-Atemfrequenz-Beatmet;Beatmung_ES_Evita4_frequenz eingestellte Atemfrequenz;59
+Mechanische-Atemfrequenz-Beatmet;Beatmung_ES_Evita2_Frequenz eingestellt mandatorische Atemfrquenz;58
+Mechanische-Atemfrequenz-Beatmet;Beatmung_ES_Evita4_fApnoe eingestellte Atemfrequenz in der Apnoeventilation;55
+Mittlerer Beatmungsdruck;Beatmung_MS_G5_PeepCPAP Messwert: Beatmungsdruck Peep / CPAP;74
+Mittlerer Beatmungsdruck;Beatmung_ES_C2_Druckrampe;65
+Mittlerer Beatmungsdruck;Beatmung_MS_C2_Pmittel;65
+Mittlerer Beatmungsdruck;Beatmung_Einstellung_DruckTrigger;63
+Mittlerer Beatmungsdruck;P_Beatmung_ES_C3_Druckrampe;63
+Positiv-endexpiratorischer Druck;Beatmung_Einstellung_PEEP Positiver endexspiratorischer Druck (PEEP);65
+Positiv-endexpiratorischer Druck;Beatmung_MS_Evita4_PEEP gemessener positiver endexspiratorischer Druck;63
+Positiv-endexpiratorischer Druck;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;62
+Positiv-endexpiratorischer Druck;ZVD Zentralvenöser Druck;55
+Positiv-endexpiratorischer Druck;ICP Intrakranialer Druck;50
+Pulmonalarterieller Blutdruck;PAP Pulmunalarterieller Druck;83
+Pulmonalarterieller Blutdruck;ABP_1 arterieller Blutdruck 1;76
+Pulmonalarterieller Blutdruck;ABP_2 zweiter arterieller Blutdruck;69
+Pulmonalarterieller Blutdruck;CardioHelpMaquet_MS_DruckArteriell;54
+Pulmonalarterieller Blutdruck;ICP Intrakranialer Druck;53
+Pulmonalarterieller wedge Blutdruck;PAP Pulmunalarterieller Druck;75
+Pulmonalarterieller wedge Blutdruck;ABP_2 zweiter arterieller Blutdruck;74
+Pulmonalarterieller wedge Blutdruck;ABP_1 arterieller Blutdruck 1;69
+Pulmonalarterieller wedge Blutdruck;CardioHelpMaquet_MS_DruckArteriell;49
+Pulmonalarterieller wedge Blutdruck;NBP_1 nichtinvasiver Blutdruck 1;48
+Pulmonalvaskulaerer Widerstandsindex;EVLWI Extravaskuläres Lungenwasserindex;51
+Pulmonalvaskulaerer Widerstandsindex;PVRI Pulmunaler Gefäßwiderstandsindex;48
+Pulmonalvaskulaerer Widerstandsindex;PVPI Pulmonalvaskuläer Permeabilitätsindex;47
+Pulmonalvaskulaerer Widerstandsindex;SVRI Index des systemischen Gefäßwiderstandes;46
+Pulmonalvaskulaerer Widerstandsindex;EVLW Extravaskuläres Lungenwasser;44
+Rechtsventrikulaerer Druck;ZVD Zentralvenöser Druck;57
+Rechtsventrikulaerer Druck;ICP Intrakranialer Druck;56
+Rechtsventrikulaerer Druck;PAP Pulmunalarterieller Druck;51
+Rechtsventrikulaerer Druck;Nierenverfahren_MS_Multi_venDruck venöser Druck;50
+Rechtsventrikulaerer Druck;Beatmung_MS_Servoi_Pmean Mittlerer Atemwegsdruck;49
+Sauerstofffraktion;GEF Globale Auswurffraktion;53
+Sauerstofffraktion;Beatmung_ES_Servoi_O2 Sauerstoffkonzentration;51
+Sauerstofffraktion;SpO2 Sauerstoffsättigung Pulsoxymetrie;47
+Sauerstofffraktion;Beatmung_ES_C2_Sauerstoff;47
+Sauerstofffraktion;Beatmung_MS_C2_Sauerstoff;47
+Sauerstoffgasfluss;CardioHelpMaquet_ES_Gasfluss;52
+Sauerstoffgasfluss;Lungenersatzverfahren_Doku_ILA_Gasfluss;49
+Sauerstoffgasfluss;Betreuer_Status;48
+Sauerstoffgasfluss;SpO2 Sauerstoffsättigung Pulsoxymetrie;47
+Sauerstoffgasfluss;Beatmung_ES_C2_Sauerstoff;47
+Spontane-Atemfrequenz-Beatmet;AF Atemfrequenz;89
+Spontane-Atemfrequenz-Beatmet;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;84
+Spontane-Atemfrequenz-Beatmet;Beatmung_ES_Evita4_frequenz eingestellte Atemfrequenz;59
+Spontane-Atemfrequenz-Beatmet;Beatmung_ES_Evita4_fApnoe eingestellte Atemfrequenz in der Apnoeventilation;59
+Spontane-Atemfrequenz-Beatmet;Beatmung_ES_Evita2_Frequenz eingestellt mandatorische Atemfrquenz;53
+Spontane-Mechanische-Atemfrequenz-Beatmet;AF Atemfrequenz;89
+Spontane-Mechanische-Atemfrequenz-Beatmet;Beatmung_MS_G5_fspontan Spontane Atemfrequenz;70
+Spontane-Mechanische-Atemfrequenz-Beatmet;Beatmung_ES_Evita4_frequenz eingestellte Atemfrequenz;57
+Spontane-Mechanische-Atemfrequenz-Beatmet;Beatmung_ES_Evita2_Frequenz eingestellt mandatorische Atemfrquenz;53
+Spontane-Mechanische-Atemfrequenz-Beatmet;Beatmung_MS_Servoi_Ppeak Atemdruck Spitze;51
+Substituatvolumen;Nierenersatzverfahren_Mess_SubstituatVolumen;56
+Substituatvolumen;p-SV Schlagvolumen;51
+Substituatvolumen;NEV_CRRT_MS_Multi_CitratvolKum;51
+Substituatvolumen;IABP_Doku_Ballonvolumen;50
+Substituatvolumen;HZV Herzzeitvolumen;50
+Zeitverhaeltnis-Ein-Ausatmung;Beatmung_ES_G5_IEVerhältnis_Backup;58
+Zeitverhaeltnis-Ein-Ausatmung;Beatmung_ES_Heimbeatmung_Ti;50
+Zeitverhaeltnis-Ein-Ausatmung;Beatmung_Einstellung_O2Konzentration;49
+Zeitverhaeltnis-Ein-Ausatmung;Beatmung_MS_G5_IEVerhaeltnis gemessenes I:E Verhältnis;49
+Zeitverhaeltnis-Ein-Ausatmung;Beatmung_ES_Optiflow_O2Konzentration;49
+Sauerstofffraktion eingestellt;Beatmung_Einstellung_SauerstoffFlow;65
+Sauerstofffraktion eingestellt;Beatmung_ES_Servoi_O2 Sauerstoffkonzentration;61
+Sauerstofffraktion eingestellt;Beatmung_Einstellung_O2Konzentration;55
+Sauerstofffraktion eingestellt;Beatmung_ES_C2_Sauerstoff;55
+Sauerstofffraktion eingestellt;Beatmung_ES_Evita2_Frequenz eingestellt mandatorische Atemfrquenz;54
+Beatmungszeit auf niedriegem Druck;Beatmung_Einstellung_DruckTrigger;60
+Beatmungszeit auf niedriegem Druck;Beatmung_ES_Evita4_ASB eingestellte Druckunterstützung;55
+Beatmungszeit auf niedriegem Druck;PAP Pulmunalarterieller Druck;54
+Beatmungszeit auf niedriegem Druck;Beatmung_ES_C2_Druckrampe;54
+Beatmungszeit auf niedriegem Druck;Beatmung_ES_Evita4_Pinsp eingestelltes oberes Druckniveau;53
+Atemwegsdruck bei null expiratorischem Gasfluss;Beatmung_MS_VisionA_MAP gemessener Mittlerer Atemwegsdruck unter HFO bei Alpha Vision;53
+Atemwegsdruck bei null expiratorischem Gasfluss;Beatmung_MS_Evita4_PEEP gemessener positiver endexspiratorischer Druck;53
+Atemwegsdruck bei null expiratorischem Gasfluss;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;52
+Atemwegsdruck bei null expiratorischem Gasfluss;Beatmung_ES_VisionA_MAP Mittlerer Atemwegsdruck (MAP);51
+Atemwegsdruck bei null expiratorischem Gasfluss;Beatmung_MS_Evita4_Pmean gemessener Atemwegsmitteldruck;51
+Dauer extrakoporaler Gasaustausch;EVLW Extravaskuläres Lungenwasser;46
+Dauer extrakoporaler Gasaustausch;Fall_Wertsachen_Kleidungsstuecke;43
+Dauer extrakoporaler Gasaustausch;PLS Pulsrate errechnet aus der SpO2 Messung;42
+Dauer extrakoporaler Gasaustausch;ICP Intrakranialer Druck;42
+Dauer extrakoporaler Gasaustausch;EVLWI Extravaskuläres Lungenwasserindex;42
+Dynamische Kompliance;Beatmung_Messung_Compliance Compliance;51
+Dynamische Kompliance;Patient_Name Name des Patiente;43
+Dynamische Kompliance;Fall_Wertsachen_Kleidungsstuecke;42
+Dynamische Kompliance;Beatmung_Messung_Resistance Resistance;41
+Dynamische Kompliance;Untersuchung_Kopf_Augen;41
+Beatmungszeit auf hohem Druck;Beatmung_Einstellung_DruckFlow;58
+Beatmungszeit auf hohem Druck;Beatmung_ES_C2_Druckrampe;56
+Beatmungszeit auf hohem Druck;Beatmung_Einstellung_DruckTrigger;55
+Beatmungszeit auf hohem Druck;P_Beatmung_ES_C3_Druckrampe;54
+Beatmungszeit auf hohem Druck;Beatmung_Messung_Pplateau Plateau Druck;53
+Eingestellter inspiratorischer Gasfluss;"Beatmung_MS_G5_Pinsp Inspiratorischer Druck; mit Pinsp wird der Zieldruck (zusätzlich zu PEEP/CPAP) bezeichnet, der im Modus ASV während der Inspirationsphase abgegeben wird";58
+Eingestellter inspiratorischer Gasfluss;Beatmung_MS_G5_InspFlow Inspiratorischer Peakflow, ein Monitoring-Parameter;58
+Eingestellter inspiratorischer Gasfluss;P_Beatmung_ES_C3_Pinsp Inspiratorischer Druck;58
+Eingestellter inspiratorischer Gasfluss;Beatmung_Einstellung_PAW/Pinspiration;55
+Eingestellter inspiratorischer Gasfluss;Beatmung_Einstellung_PEEP Positiver endexspiratorischer Druck (PEEP);53
+Koerpergewicht Percentil altersabhaengig;Patient_Gewicht Gewicht des Patienten;49
+Koerpergewicht Percentil altersabhaengig;Untersuchung_Status_Koerpertemperatur;49
+Koerpergewicht Percentil altersabhaengig;Fall_Wertsachen_Pflegeuntensilien;49
+Koerpergewicht Percentil altersabhaengig;Beatmung_ES_G5_Body_Wt Eingestelltes Körpergewicht.;47
+Koerpergewicht Percentil altersabhaengig;Fall_Wertsachen_Wertgegenstaende;47
+Linksv. Schlagvolumen durch Indikatorverduennung;p-SV Schlagvolumen;84
+Linksv. Schlagvolumen durch Indikatorverduennung;Schlagvolumen gemessenes Schlagvolumen;70
+Linksv. Schlagvolumen durch Indikatorverduennung;p-SVI Schlagvolumenindex  (PICCO Modul Dräger Monitoring);52
+Linksv. Schlagvolumen durch Indikatorverduennung;Beatmung_ES_VisionA_Schlagvolumen Schlagvolumen (SV) in engl. (cycle volume);49
+Linksv. Schlagvolumen durch Indikatorverduennung;GEDVI Index des enddiastolisches Volumen;48
+Linksv. Herzzeitvolumen durch Indikatorverduennung;HZV Herzzeitvolumen;88
+Linksv. Herzzeitvolumen durch Indikatorverduennung;VigilanceC_HZV Herzzeitvolumen;67
+Linksv. Herzzeitvolumen durch Indikatorverduennung;PCCO Pulskontur-Herzzeitvolumen;65
+Linksv. Herzzeitvolumen durch Indikatorverduennung;p-CO Herzzeitvolumen (PICCO Modul Dräger Monitoring);59
+Linksv. Herzzeitvolumen durch Indikatorverduennung;ITBV Intrathorakales Blutvolumen;49
+Endexpiratorischer Kohlendioxidpartialdruck;Beatmung_MS_G5_ExspFlow Exspiratorischer Peakflow, ein Monitoring-Parameter;50
+Endexpiratorischer Kohlendioxidpartialdruck;Nierenersatzverfahren_Mess_ArteriellDruck;50
+Endexpiratorischer Kohlendioxidpartialdruck;PtiO2Druck Gemessener Sauerstoffpartialdruck im Parenchym;48
+Endexpiratorischer Kohlendioxidpartialdruck;Beatmung_MS_G5_ExpMinVol Exspiratorisches Minutenvolumen, Monitoring-Parameter;48
+Endexpiratorischer Kohlendioxidpartialdruck;Beatmung_MS_G5_Rexsp Exspiratorische Flow-Resistance, ein Monitoring-Parameter;48
+Sauerstoffsaettigung im Blut preductal durch Pulsoxymetrie;SpO2 Sauerstoffsättigung Pulsoxymetrie;67
+Sauerstoffsaettigung im Blut preductal durch Pulsoxymetrie;P_INVOS_Doku_rSO2_rechts cerbebrale Sauerstoffsättigung rechts;55
+Sauerstoffsaettigung im Blut preductal durch Pulsoxymetrie;P_INVOS_Doku_rSO2_links cerebrale Sauerstoffsättigung links;52
+Sauerstoffsaettigung im Blut preductal durch Pulsoxymetrie;PtiO2Druck Gemessener Sauerstoffpartialdruck im Parenchym;49
+Sauerstoffsaettigung im Blut preductal durch Pulsoxymetrie;Beatmung_ES_Servoi_O2 Sauerstoffkonzentration;47
+Atemzugvolumen-Waehrend-Beatmung;Beatmung_Messung_VTeMl VTe / ex. Atemzugvolumen (Tidal Volumen expir.);61
+Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_Evita4_MV gemessenes Atemminutenvolumen;60
+Atemzugvolumen-Waehrend-Beatmung;Beatmung_Messung_AF Breathing Frequency;54
+Atemzugvolumen-Waehrend-Beatmung;Beatmung_MS_Heimbeatmung_VTe;53
+Atemzugvolumen-Waehrend-Beatmung;Beatmung_ES_Heimbeatmung_Peep;52
+Linksventrikulaerer Druck;ZVD Zentralvenöser Druck;58
+Linksventrikulaerer Druck;ICP Intrakranialer Druck;57
+Linksventrikulaerer Druck;PAP Pulmunalarterieller Druck;52
+Linksventrikulaerer Druck;Nierenverfahren_MS_Multi_venDruck venöser Druck;48
+Linksventrikulaerer Druck;Beatmung_MS_Servoi_Pmean Mittlerer Atemwegsdruck;47
+Linksventrikulaerer Herzindex;CI Herzindex;86
+Linksventrikulaerer Herzindex;p-CI Herzindex;78
+Linksventrikulaerer Herzindex;VigilanceC_CI Herzindex;58
+Linksventrikulaerer Herzindex;dPmax Index der linken Ventrikelkontraktilität;57
+Linksventrikulaerer Herzindex;PCCI Herzindex (kontinuirlich);56
+Linksventrikulaeres Schlagvolumen;p-SV Schlagvolumen;84
+Linksventrikulaeres Schlagvolumen;Schlagvolumen gemessenes Schlagvolumen;70
+Linksventrikulaeres Schlagvolumen;Beatmung_ES_VisionA_Schlagvolumen Schlagvolumen (SV) in engl. (cycle volume);57
+Linksventrikulaeres Schlagvolumen;Nierenersatzverfahren_Mess_Dialysatvolumen;53
+Linksventrikulaeres Schlagvolumen;Schlagvolumenindex Wert des gemessenen Schlagvolumenindex.;51
+Rechtsatrialer Druck;ICP Intrakranialer Druck;68
+Rechtsatrialer Druck;ZVD Zentralvenöser Druck;60
+Rechtsatrialer Druck;PAP Pulmunalarterieller Druck;53
+Rechtsatrialer Druck;CPP Zerebraler Perfusionsdruck;52
+Rechtsatrialer Druck;NBP_1 nichtinvasiver Blutdruck 1;50
+Sauerstoffsaettigung im art. Blut durch Pulsoxymetrie;SpO2 Sauerstoffsättigung Pulsoxymetrie;72
+Sauerstoffsaettigung im art. Blut durch Pulsoxymetrie;P_INVOS_Doku_rSO2_rechts cerbebrale Sauerstoffsättigung rechts;57
+Sauerstoffsaettigung im art. Blut durch Pulsoxymetrie;P_INVOS_Doku_rSO2_links cerebrale Sauerstoffsättigung links;55
+Sauerstoffsaettigung im art. Blut durch Pulsoxymetrie;PtiO2Druck Gemessener Sauerstoffpartialdruck im Parenchym;50
+Sauerstoffsaettigung im art. Blut durch Pulsoxymetrie;Beatmung_ES_Servoi_O2 Sauerstoffkonzentration;49
+Systemischer vaskulaerer Widerstandsindex;SVR Systemischer Gefäßwiderstand;70
+Systemischer vaskulaerer Widerstandsindex;p-SVR Systemischer Gefäßwiderstand (PICCO Modul Dräger Monitoring);57
+Systemischer vaskulaerer Widerstandsindex;EVLWI Extravaskuläres Lungenwasserindex;53
+Systemischer vaskulaerer Widerstandsindex;SVRI Index des systemischen Gefäßwiderstandes;48
+Systemischer vaskulaerer Widerstandsindex;PVRI Pulmunaler Gefäßwiderstandsindex;45
+Zentralvenoeser Druck (ZVD);ZVD Zentralvenöser Druck;96
+Zentralvenoeser Druck (ZVD);ICP Intrakranialer Druck;53
+Zentralvenoeser Druck (ZVD);Nierenverfahren_MS_Multi_venDruck venöser Druck;51
+Zentralvenoeser Druck (ZVD);PAP Pulmunalarterieller Druck;48
+Zentralvenoeser Druck (ZVD);CPP Zerebraler Perfusionsdruck;47
